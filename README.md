@@ -29,6 +29,7 @@ Panda LIVE Recorder 是面向 PandaLive 的 Windows 图形化直播录制工具�
 9. N_m3u8DL-RE 和浏览器辅助程序均在后台运行，不弹出命令行窗口。
 10. 支持浅色、深色以及蓝色、紫色、青色、橙色主题。
 11. 支持代理端口设置
+
 系统要求
 --------
 - Windows 10 或 Windows 11，64 位系统。
