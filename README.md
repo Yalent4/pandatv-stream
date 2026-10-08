@@ -18,7 +18,7 @@ Panda LIVE Recorder 是面向 PandaLive 的 Windows 图形化直播录制工具�
 
 主要功能
 --------
-1. 只需填写 PandaLive 播放页中 play/ 后面的 BJ ID。
+1. 只需填写 PandaLive 播放页中 play/ 后面的 主播ID。
 2. 每个任务独立检测直播间真实存在的数字画质。
 3. 检测结果仅显示 480、720、1080 等数字画质。
 4. 必须先选择画质，当前行的“录制”按钮才会启用。
@@ -51,9 +51,9 @@ Panda LIVE Recorder 是面向 PandaLive 的 Windows 图形化直播录制工具�
 --------------
 1. 打开软件左侧“录制”页面。
 2. 点击“添加任务”。
-3. 在 BJ ID 中填写主播名称，例如播放地址：
+3. 在 主播 ID 中填写主播名称，例如播放地址：
    https://www.pandalive.co.kr/play/freezia
-   对应 BJ ID 为 freezia。
+   对应 主播 ID 为 xxx。
 4. 点击当前行“检测”。
 5. 检测成功后，在“画质”中选择需要的数字画质。
 6. 点击当前行“录制”。
@@ -64,7 +64,7 @@ Panda LIVE Recorder 是面向 PandaLive 的 Windows 图形化直播录制工具�
 1. 打开“设置”页面。
 2. 点击“浏览器登录”。
 3. 软件会自动寻找本机可用的 Chrome、Edge、Brave 或 Chromium。
-4. 在打开的普通浏览器窗口内完成登录、验证码或成人验证。
+4. 在打开的普通浏览器窗口内完成登录、验证码或验证。
 5. 等待网站显示为真正登录状态。
 6. 软件连续确认登录状态后会自动取得 Cookie。
 7. 登录成功前没有时间限制；用户也可以直接关闭浏览器取消登录。
@@ -111,7 +111,7 @@ https://github.com/Yalent4/pandatv-stream/issues
 建议同时提供：
 - 软件版本；
 - Windows 版本；
-- BJ ID；
+- 主播ID；
 - 操作步骤；
 - 错误提示截图。
 
